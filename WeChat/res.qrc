@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/wechat.png</file>
+        <file>icon/bold.png</file>
+        <file>icon/clear.png</file>
+        <file>icon/color.png</file>
+        <file>icon/italic.png</file>
+        <file>icon/qq.png</file>
+        <file>icon/save.png</file>
+        <file>icon/send.png</file>
+        <file>icon/under.png</file>
+        <file>userIcon/wcc.jpg</file>
+        <file>userIcon/hdm.jpg</file>
+        <file>userIcon/ly.jpg</file>
+        <file>userIcon/lzh.jpg</file>
+        <file>userIcon/new.jpg</file>
+        <file>userIcon/wxc.jpg</file>
+        <file>userIcon/zhh.jpg</file>
+    </qresource>
+</RCC>
